@@ -1,5 +1,5 @@
 # ubuntu-hadoop-hbase-dev
-An image for ubuntu-18.04 + Hadoop 3.2.2 + HBase 2.3.5 + Java 8 (OpenJDK)  
+An image for ubuntu-18.04 + Hadoop 3.2.2 + HBase 2.3.5 + Java 8 (OpenJDK) Pseudo-Distributed ver.  
 This image is based on [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles).
 
 ## How to use
